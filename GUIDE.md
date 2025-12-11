@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ligne guide main
-=======
-ligne guide feature
->>>>>>> feature/guide
+Contenu guide (feature)
