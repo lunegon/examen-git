@@ -1,1 +1,1 @@
-Tip Local
+Tip Distant
